@@ -1,0 +1,15 @@
+*,::before,::after{
+    box-sizing:border-box;
+}
+body{
+    margin:0;
+    padding:0
+}
+.container{
+    max-width: 1040px;
+    min-height: 700px;
+    display: flex;
+    margin: 40px auto;
+    
+    
+}
