@@ -15,7 +15,7 @@ body {
     margin: 20px auto;
     line-height: 35px;
     display: flex;
-    background-color: rgb(211, 209, 209);
+    background-color: paleturquoise;
 }
 .poem{
     display: flex;
