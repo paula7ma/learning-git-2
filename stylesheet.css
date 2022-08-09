@@ -16,8 +16,15 @@ body {
     line-height: 35px;
     display: flex;
     background-color: paleturquoise;
+    transition: all linear 1.5s;
 }
 .poem{
     display: flex;
     margin: 30px auto;
+}
+
+.container:hover {
+    background-color: palevioletred;
+    transform: scale(1.4);
+    
 }
