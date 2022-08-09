@@ -3,12 +3,18 @@
 }
 body{
     margin:0;
-    padding:0
+    padding:0;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+
 }
 .container{
     max-width: 1040px;
     min-height: 100px;
     display: flex;
     margin: 10px auto;
-    
+    line-height: 35px;
+    display: flex;
+    margin: auto;
+     
 }
