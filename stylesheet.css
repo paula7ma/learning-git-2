@@ -6,15 +6,19 @@ body{
     padding:0;
     font-size: 20px;
     font-family: 'Pacifico', cursive;
+    
 
 }
 .container{
     max-width: 1040px;
-    min-height: 100px;
     display: flex;
     margin: 10px auto;
     line-height: 35px;
     display: flex;
-    margin: auto;
-     
+    margin: 10px auto; 
+    background-color: rgb(211, 209, 209);
+}
+.poem{
+    display: flex;
+    margin: 30px auto;
 }
