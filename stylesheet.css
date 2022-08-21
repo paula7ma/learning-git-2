@@ -24,7 +24,7 @@ body {
 }
 
 .container:hover {
-    background-color: palevioletred;
+    background-color: rgb(112, 192, 216);
     transform: scale(1.4);
     
 }
