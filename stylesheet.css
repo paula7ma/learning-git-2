@@ -15,8 +15,7 @@ body {
     margin: 20px auto;
     line-height: 35px;
     display: flex;
-    background-color: paleturquoise;
-    transition: all linear 0.7s;
+    
 }
 .poem{
     display: flex;
@@ -24,7 +23,7 @@ body {
 }
 
 .container:hover {
-    background-color: rgb(112, 192, 216);
+    background-color: rgb(127, 127, 127);
     transform: scale(1.4);
     
 }
